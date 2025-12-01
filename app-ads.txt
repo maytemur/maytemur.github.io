@@ -2689,6 +2689,12 @@ onetag.com, 59aa7be4921bac8, RESELLER
 brightcom.com, 23120, RESELLER
 adview.com, 06667060, RESELLER, 1b2cc038a11ea319
 #Bigo Live Account
+bidease.com, bidease_seller_25, RESELLER
+tredio.io, 357a6fdf7642bf815a88822c447d9dc434414, RESELLER
+caerulus.io, 3320-37140, RESELLER
+zmaticoo.com, 5135199, RESELLER
+bidmachine.io, 1269, RESELLER
+visiblemeasures.com, 1018, RESELLER
 rubiconproject.com, 28021, RESELLER, 0bfd66d529a55807
 sharethrough.com, 4610, RESELLER, d53b998a7bd4ecd2
 rubiconproject.com, 27386, RESELLER, 0bfd66d529a55807
