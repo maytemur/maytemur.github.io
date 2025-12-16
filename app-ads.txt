@@ -2,7 +2,7 @@ OWNERDOMAIN=maytemur.com.tr
 # AdMob account
 google.com, pub-4313708117464817, DIRECT, f08c47fec0942fa0
 # Ironsource Account
-ironsrc.com,324185, Direct
+ironsrc.com,528583, Direct
 rubiconproject.com, 24400, RESELLER, 0bfd66d529a55807
 video.unrulymedia.com, 2464975885, RESELLER
 outbrain.com, 0023749a2264ea0429a71b54ac9ca0de9a, RESELLER
