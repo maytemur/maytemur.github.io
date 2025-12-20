@@ -2701,6 +2701,16 @@ onetag.com, 59aa7be4921bac8, RESELLER
 brightcom.com, 23120, RESELLER
 adview.com, 06667060, RESELLER, 1b2cc038a11ea319
 #Bigo Live Account
+ignitemediatech.com, pub_61317, RESELLER
+ignitemediatech.com, 101, RESELLER
+visiblemeasures.com, 2012VM, RESELLER
+33across.com, 0014000000ftZtNAAU, RESELLER, bbea06d9c4d2853c
+sharethrough.com, 3713, RESELLER, d53b998a7bd4ecd2
+pubmatic.com, 165019, RESELLER, 5d62403b186f2ace
+admatic.de, ade-pub-4967241771, RESELLER
+outbrain.com, 0052a42837b505f8ee68b4559b35c4d4d7, RESELLER
+criteo.com, NC7LXT, RESELLER, 35d5010d7789b49d
+criteo.com, WS2D8N, RESELLER, 35d5010d7789b49d
 inmobi.com, 23d316d3d980453d8ea0dcf9caec4078, RESELLER, 83e75a7ae333ca9d
 mindtos.com,mt0b219ff842ee3772, RESELLER
 bidease.com, bidease_seller_25, RESELLER
