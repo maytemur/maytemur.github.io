@@ -2703,6 +2703,15 @@ onetag.com, 59aa7be4921bac8, RESELLER
 brightcom.com, 23120, RESELLER
 adview.com, 06667060, RESELLER, 1b2cc038a11ea319
 #Bigo Live Account
+cgnl.io, 7001, RESELLER
+cgnl.io, 6185, RESELLER
+cignal.io, 7001, RESELLER
+cignal.io, 6185, RESELLER
+carambo.la, 914731121, RESELLER
+carambo.la, 914738127, RESELLER
+openx.com, 537140323, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 159626, RESELLER, 5d62403b186f2ace
+pubmatic.com, 166836, RESELLER, 5d62403b186f2ace
 ignitemediatech.com, pub_61317, RESELLER
 ignitemediatech.com, 101, RESELLER
 visiblemeasures.com, 2012VM, RESELLER
