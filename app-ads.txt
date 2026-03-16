@@ -2222,6 +2222,12 @@ onetag.com, 59aa7be4921bac8, RESELLER
 brightcom.com, 23120, RESELLER
 adview.com, 06667060, RESELLER, 1b2cc038a11ea319
 #Bigo Live Account
+Media.net, 8CUGG4P7J, RESELLER
+copper6.com, 766216, RESELLER
+carliba.io, 184103, RESELLER
+pubmatic.com, 165854, RESELLER, 5d62403b186f2ace
+themediagrid.com, VM75KS, RESELLER, 35d5010d7789b49d
+lijit.com, 583722, RESELLER, fafdf38b16bf6b2b
 triplelift.com, 14742, RESELLER, 6c33edb13117fd86
 triplelift.com, 14740, RESELLER, 6c33edb13117fd86
 triplelift.com, 14751, RESELLER, 6c33edb13117fd86
