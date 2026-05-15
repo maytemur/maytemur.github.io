@@ -896,6 +896,7 @@ mman.kr, 32102, RESELLER
 acexchange.co.kr, 1562884725, RESELLER
 adingenious.com, 75036, RESELLER
 # Unity account
+themediagrid.com, GODNC4, RESELLER, 35d5010d7789b49d
 triplelift.com, 95054, RESELLER, 6c33edb13117fd86
 programmaticx.ai, 84448, RESELLER, b42d42eb28400efa
 triplelift.com, 14716, RESELLER, 6c33edb13117fd86
@@ -2235,6 +2236,7 @@ onetag.com, 59aa7be4921bac8, RESELLER
 brightcom.com, 23120, RESELLER
 adview.com, 06667060, RESELLER, 1b2cc038a11ea319
 #Bigo Live Account
+pubmatic.com, 167981, RESELLER, 5d62403b186f2ace
 inmobi.com, 23d316d3d980453d8ea0dcf9caec4078, RESELLER, 83e75a7ae333ca9d
 mindtos.com,mt0b219ff842ee3772, RESELLER
 pubmatic.com, 163754, RESELLER, 5d62403b186f2ace
