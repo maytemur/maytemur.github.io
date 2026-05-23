@@ -896,6 +896,7 @@ mman.kr, 32102, RESELLER
 acexchange.co.kr, 1562884725, RESELLER
 adingenious.com, 75036, RESELLER
 # Unity account
+ogury.com, 065d4ff5-a269-44be-9634-9d4d7af2dfc3, RESELLER
 adform.com, 3400, RESELLER, 9f5210a2f0999e32
 onlinemediasolutions.com, 23120, RESELLER, b3868b187e4b6402
 pubmatic.com, 163117, RESELLER, 5d62403b186f2ace
