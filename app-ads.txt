@@ -2217,6 +2217,7 @@ onetag.com, 59aa7be4921bac8, RESELLER
 brightcom.com, 23120, RESELLER
 adview.com, 06667060, RESELLER, 1b2cc038a11ea319
 #Bigo Live Account
+Trustedstack.com, TSP4UUFB8, RESELLER
 programmaticx.ai, 10568600, RESELLER, b42d42eb28400efa
 targetbetter.com, 610568600, RESELLER
 themediagrid.com, 8ZRKBE, RESELLER
