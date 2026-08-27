@@ -1971,6 +1971,39 @@ onetag.com, 59aa7be4921bac8, RESELLER
 brightcom.com, 23120, RESELLER
 adview.com, 06667060, RESELLER, 1b2cc038a11ea319
 #Bigo Live Account
+antipodesdigital.com, 346, RESELLER
+pubmatic.com, 166924, RESELLER, 5d62403b186f2ace
+x.adprime.com, AJxF6R93a9M6CaTvK, RESELLER
+inmobi.com, df0f01fab6f64f09a6eff6779cfa8663, RESELLER, 83e75a7ae333ca9d
+seedtag.com, 674f42e4de70100007eeab9d, RESELLER
+verve.com, 1007974, RESELLER, 0c8f5958fc2d6270
+triplelift.com, 14848, RESELLER, 6c33edb13117fd86
+algorix.co, 604553, RESELLER, 5b394c12fea27a1d
+onlinemediasolutions.com,43307,RESELLER,b3868b187e4b6402
+consumable.com,2001681,RESELLER,aefcd3d2f45b5070
+inmobi.com,0a9d875916034437b220eba9df2adfa3,RESELLER,83e75a7ae333ca9d
+appnexus.com,15127,RESELLER,f5ab79cb980f11d1
+adform.com,3251,RESELLER,9f5210a2f0999e32
+smilewanted.com,5819,RESELLER
+trustedstack.com,TSF422CZY,RESELLER
+gravite.net,AJxF6R76a9M6CaTvK,RESELLER
+sonobi.com,87555b1b39,RESELLER,d1a215d9eb5aee9e
+adagio.io,1050,RESELLER
+richaudience.com,pWFKmkEBfb,RESELLER
+smartclip.net, 13564, RESELLER
+anzu.io,694ac1b38f0e5ae09b604cb8,RESELLER
+loopme.com,15601,RESELLER,6c8d5f95897a5a3b
+indexexchange.com, 214429,RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 192505,RESELLER, 50b1c356f2c5c8fc
+lijit.com,524160-eb,RESELLER,fafdf38b16bf6b2b
+appnexus.com,12616,RESELLER,f5ab79cb980f11d1
+loopme.com,11524,RESELLER,6c8d5f95897a5a3b
+sonobi.com,97e60f3067,RESELLER,d1a215d9eb5aee9e
+lijit.com,524160,RESELLER,fafdf38b16bf6b2b
+rubiconproject.com, 17476, RESELLER, 0bfd66d529a55807
+Media.net, 8CU47MDK1, RESELLER
+smartadserver.com,4024,RESELLER,060d053dcf45cbf3
+video.unrulymedia.com,3890682751,RESELLER
 Trustedstack.com, TSP4UUFB8, RESELLER
 programmaticx.ai, 10568600, RESELLER, b42d42eb28400efa
 targetbetter.com, 610568600, RESELLER
