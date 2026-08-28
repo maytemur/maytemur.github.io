@@ -1971,6 +1971,8 @@ onetag.com, 59aa7be4921bac8, RESELLER
 brightcom.com, 23120, RESELLER
 adview.com, 06667060, RESELLER, 1b2cc038a11ea319
 #Bigo Live Account
+verve.com, 1016803, RESELLER, 0c8f5958fc2d6270
+rubiconproject.com, 28767, RESELLER, 0bfd66d529a55807
 antipodesdigital.com, 346, RESELLER
 pubmatic.com, 166924, RESELLER, 5d62403b186f2ace
 x.adprime.com, AJxF6R93a9M6CaTvK, RESELLER
