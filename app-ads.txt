@@ -1231,6 +1231,7 @@ zmaticoo.com,5135302,RESELLER
 zoomd.com,88478941,RESELLER
 # Chartboost Loopme
 chartboost.com, 683efa28d725027fe0923d31, DIRECT
+loopme.com, 18545, DIRECT, 6c8d5f95897a5a3b
 adform.com, 2742, RESELLER
 opera.com, pub10014056052800, RESELLER, 55a0c5fd61378de3
 themediagrid.com, OTJDBI, RESELLER, 35d5010d7789b49d
