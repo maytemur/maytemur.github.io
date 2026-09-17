@@ -2,6 +2,27 @@ OWNERDOMAIN=maytemur.com.tr
 # AdMob account
 google.com, pub-4313708117464817, DIRECT, f08c47fec0942fa0
 # Unity account
+loopme.com, 2896, RESELLER, 6c8d5f95897a5a3b
+media.net, 8CU675N41, RESELLER
+media.net, 8CU9B72O6, RESELLER
+media.net, 8CUH46N56, RESELLER
+media.net, 8CUSC3UJ7, RESELLER
+media.net, 8CUUQ286L, RESELLER
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160145, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24752, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25978, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 28169, RESELLER, 0bfd66d529a55807
+sharethrough.com, UvcAx8IL, RESELLER, d53b998a7bd4ecd2
+smartadserver.com, 4625, RESELLER, 060d053dcf45cbf3
+smartclip.net, 15458, RESELLER
+themediagrid.com, B8N9YH, RESELLER, 35d5010d7789b49d
+triplelift.com, 12158, RESELLER, 6c33edb13117fd86
+triplelift.com, 12908, RESELLER, 6c33edb13117fd86
+video.unrulymedia.com, 947824792, RESELLER
+xandr.com, 13799, RESELLER
 bigo.sg, adidz3dyfp, RESELLER
 bold-win.com, 1189, RESELLER, 71746737d0bab951
 e-planning.net, 79ded3cfca3d3b78, RESELLER, c1ba615865ed87b2
